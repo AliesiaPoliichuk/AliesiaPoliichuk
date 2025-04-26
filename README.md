@@ -20,7 +20,7 @@
 
 - **SQL:** Joins, CTEs, Window Functions, Aggregations
 - **Python:** Pandas, NumPy, Matplotlib
-- **Data Visualization:** Tableau, Looker Studio, Google Data Studio
+- **Data Visualization:** Tableau, Looker Studio
 - **Databases:** PostgreSQL, BigQuery
 - **Data Cleaning & Preprocessing:** Excel, Google Sheets
 - **Analytics Techniques:** A/B Testing, Hypothesis Testing, Funnel Analysis

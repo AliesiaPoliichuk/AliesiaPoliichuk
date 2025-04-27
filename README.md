@@ -30,7 +30,6 @@
 ## 📫 Contact Me
 
 - **LinkedIn:** https://www.linkedin.com/in/aliesia-poliichuk-b69778358/
-- **GitHub:** https://github.com/AliesiaPoliichuk
 - **Email:** alesyapoliichuk@icloud.com
 
 ---

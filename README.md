@@ -11,7 +11,7 @@
 
 | Project | Description | Tools & Skills |
 |--------|-------------|----------------|
-| [Marketing Campaign Analysis](https://github.com/yourusername/marketing-campaign-analysis) | Consolidated Facebook & Google Ads data using SQL; built KPI dashboards in Looker Studio | SQL, Looker Studio, Data Aggregation |
+| [Marketing Campaign Analysis](https://lookerstudio.google.com/u/1/reporting/bdafa13d-e647-44d5-9394-ff7d16e3969d/page/inBqE) | Consolidated Facebook & Google Ads data using SQL; built KPI dashboards in Looker Studio | SQL, Looker Studio, Data Aggregation |
 | [User Conversion Funnel Analysis](https://github.com/yourusername/user-funnel-analysis) | Visualized user journey from registration to payment; built interactive Tableau dashboard | Tableau, Funnel Analysis, KPI Tracking |
 
 ---
